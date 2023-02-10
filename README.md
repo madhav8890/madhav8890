@@ -5,7 +5,7 @@
 <div align = "center">
  <img align ="right" width="50%" height="50%" src="https://github.com/madhav8890/character_1/blob/main/image_cherector.gif" alt="">
 </div>
-<p align = "left">I am beginner I am a 1rd Year undergraduate from <a href="http://www.igecsagar.ac.in/" ><b>Indira gandhi engineering collage,</b> sagar, Madhya pradesh, India </a>
+<p align = "left">I am beginner I am a 3rd Year undergraduate from <a href="http://www.igecsagar.ac.in/" ><b>Indira gandhi engineering collage,</b> sagar, Madhya pradesh, India </a>
   And some of the technologies that I know are<b><em> Basic Docker, Basic RedHat Linux, Basic html, Basic css, Basic Python </em></b> i am interested to learn new technology<div>
   </br>
  
