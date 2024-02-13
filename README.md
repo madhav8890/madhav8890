@@ -11,6 +11,45 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1C4VwhRlaMc82AdmpAaLKhzJM9b2nJ18T/view](https://drive.google.com/file/d/1C4VwhRlaMc82AdmpAaLKhzJM9b2nJ18T/view)
 
+  Absolutely! Here's the README with emojis:
+
+**Hi there! **
+
+I'm Madhav Prajapati, a DevOps Enthusiast with a passion for automation and infrastructure as code (IaC) . I'm skilled in a variety of DevOps tools and technologies, including:
+
+* **Containerization:**  Docker
+* **CI/CD:**  Jenkins
+* **Configuration Management:**  Ansible
+* **IaC:**  Terraform
+* **Cloud**: ☁️ AWS (20+ Services)
+* **Operating Systems:**  Linux
+* **Orchestration:** ☸️ Kubernetes
+* **Frontend Development:** ⚛️ React.js,  JavaScript
+* **Alternative Containerization:** ️ Podman
+* **Version Control:**  Git
+* **Code Hosting:**  GitHub
+
+I'm always learning and growing, and I'm excited to connect with other developers and collaborate on open-source projects !
+
+**What you'll find in this repository:**
+
+* **Projects:** I'll be showcasing some of my personal projects here, including:
+    * [Project 1]
+    * [Project 2]
+    * [Project 3]
+* **Contributions:** I'm always open to contributing to open-source projects. You can see a list of my contributions here: [Link to Contributions]
+* **Blog:** I write about DevOps and AWS on my blog: [Link to Blog]
+
+**Connect with me:**
+
+* **LinkedIn:** [https://www.linkedin.com/in/madhavprajapati/](https://www.linkedin.com/in/madhavprajapati/): [https://www.linkedin.com/in/madhavprajapati/](https://www.linkedin.com/in/madhavprajapati/)
+* **GitHub:** [https://github.com/](https://github.com/): [https://github.com/](https://github.com/)[your_username]
+* **Twitter:** [https://twitter.com/](https://twitter.com/): [https://twitter.com/](https://twitter.com/)[your_username]
+
+I'm always open to feedback and suggestions, so please feel free to reach out! 
+
+
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
